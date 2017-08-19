@@ -1,3 +1,7 @@
+---
+title: Steady Coding
+---
+
 ## Welcome
 
 My name is Jim, and I work as a freelance Software Developer in Sweden.
